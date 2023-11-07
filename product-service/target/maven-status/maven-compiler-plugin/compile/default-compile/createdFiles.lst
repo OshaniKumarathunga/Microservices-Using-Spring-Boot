@@ -1,0 +1,10 @@
+com\ead\productservice\dto\productRequest$productRequestBuilder.class
+com\ead\productservice\service\productService.class
+com\ead\productservice\entity\Product.class
+com\ead\productservice\dto\productResponse$productResponseBuilder.class
+com\ead\productservice\dto\productResponse.class
+com\ead\productservice\controller\productController.class
+com\ead\productservice\dto\productRequest.class
+com\ead\productservice\entity\Product$ProductBuilder.class
+com\ead\productservice\ProductServiceApplication.class
+com\ead\productservice\dao\productRepository.class

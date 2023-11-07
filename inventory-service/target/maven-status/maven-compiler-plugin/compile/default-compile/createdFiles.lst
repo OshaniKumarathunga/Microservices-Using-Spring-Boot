@@ -1,0 +1,7 @@
+com\ead\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\ead\inventoryservice\service\InventoryService.class
+com\ead\inventoryservice\dao\InventoryRepository.class
+com\ead\inventoryservice\dto\InventoryResponse.class
+com\ead\inventoryservice\controller\InventoryController.class
+com\ead\inventoryservice\entity\Inventory.class
+com\ead\inventoryservice\InventoryServiceApplication.class
